@@ -42,9 +42,11 @@ Dentro do elemento `<head>...</head>`, ao seu final, crie um element
 - Quero colocar um **ícone** para minha página. #comofaz?
   - Salve uma imagem no formato `.ico` (já existe uma aqui) e, na página HTML,
     dentro do `<head></head>`, coloque:
+    
     ```html
     <link rel="icon" href="favicon.ico">
     ```
+
     ![](docs/favicon.png)
     - Veja como definir o ícone para exibir a [página em smartphones, tablets e no Windows 8+](https://tableless.com.br/favicons/)
 - Devo colocar a imagem dentro de um parágrafo ou fora dele?
