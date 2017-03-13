@@ -38,7 +38,7 @@ Dentro do elemento `<head>...</head>`, ao seu final, crie um element
     ![](docs/serifa.jpg)
     - "Arial" é uma fonte **sem serifa**
     - "Times New Roman" é uma fonte **com serifa**
-  - Quando colocamos `sans-serif` ou `serif` como a segunda opção, indicamos ao navegador que queremos uma fonte sem serifa (ou com serifa) qualquer, que esteja disponível. Tipo: "quero Arial, mas se não tiver, coloque uma fonte sem serifa"
+  - Quando colocamos `sans-serif` ou `serif` como a segunda opção, indicamos ao navegador que queremos uma fonte sem serifa (ou com serifa) qualquer, que esteja disponível. Tipo: _"quero Arial, mas se não tiver, coloque uma fonte sem serifa"_
 - Quero colocar um **ícone** para minha página. #comofaz?
   - Salve uma imagem no formato `.ico` (já existe uma aqui) e, na página HTML,
     dentro do `<head></head>`, coloque:
