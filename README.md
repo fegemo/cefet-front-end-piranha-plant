@@ -1,12 +1,22 @@
-# cefet-front-end-piranha-plant
+# Plantas Carnívoras
 
-Um site informativo sobre plantas carnívoras.
+Um site informativo sobre famintas plantas carnívoras.
 
 ## Atividade
 
 Você tem um novo hobby: **criar plantas carnívoras**. Você encontrou um
 documento solto em um antigo livro do seu tio Epaminondas e, depois de lê-lo,
 decidiu **criar uma página web com seu conteúdo**.
+
+**Testando**: mantenha o arquivo .html que você vai criar e, de tempos em tempos, atualize o navegador para ver como está ficando. Faça o exercício 1 e, depois de verificar que a página web está sendo exibida, faça o exercício 2.
+
+**Entrega**: você deve mostrar ao professor o seu exercício para ganhar o visto. Além disso, você deve compactar a pasta com todos os seus arquivos em um arquivo `.zip` e então enviá-lo ao professor.
+
+### Pré-atividade
+
+1. Baixe o [arquivo compactado](https://github.com/fegemo/cefet-front-end-piranha-plant/archive/master.zip) que contém os documentos do tio Epaminondas e 
+algumas imagens.
+2. Descompacte em algum lugar (_e.g._, na área de trabalho).
 
 ### Exercício 1
 
@@ -35,7 +45,7 @@ Dentro do elemento `<head>...</head>`, ao seu final, crie um element
   - "Arial" é uma fonte muito usada em editores de texto (como o Microsoft Word), assim como a fonte "Times New Roman"
   - Para facilitar a leitura e evitar que o leitor "se perca" ao ler letrinhas pequenas (tipo em jornal), os designers de fontes inventaram a serifa, que são uns tracinhos colocados nos cantos das letras (veja a imagem):
 
-    ![](docs/serifa.jpg)
+    ![Exemplo de fontes com serifa](docs/serifa.jpg)
     - "Arial" é uma fonte **sem serifa**
     - "Times New Roman" é uma fonte **com serifa**
   - Quando colocamos `sans-serif` ou `serif` como a segunda opção, indicamos ao navegador que queremos uma fonte sem serifa (ou com serifa) qualquer, que esteja disponível. Tipo: _"quero Arial, mas se não tiver, coloque uma fonte sem serifa"_
@@ -51,5 +61,5 @@ Dentro do elemento `<head>...</head>`, ao seu final, crie um element
     - Veja como definir o ícone para exibir a [página em smartphones, tablets e no Windows 8+](https://tableless.com.br/favicons/)
 - Devo colocar a imagem dentro de um parágrafo ou fora dele?
   - Depende do caso. A imagem deve estar dentro do parágrafo se ela
-    é uma imagem "em linha", tipo um "emoji". Se ela for uma imagem mais alta,
+    é uma imagem "em linha", tipo um _emoji_. Se ela for uma imagem maior,
     provavelmente deve estar fora do parágrafo.
