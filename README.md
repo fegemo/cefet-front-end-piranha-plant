@@ -78,9 +78,9 @@ Siga os passos:
 1. Crie o elemento `<style>...</style>` ao final (mas dentro) do
    `<head>...</head>`
 1. Crie uma regra para o elemento `body` (corpo da página) para:
-   - Definir a cor de fundo (`background-image`) como cinza claro (`lightgray`)
+   - Definir a cor de fundo (`background-color`) como cinza claro (`lightgray`)
    - Definir uma margem à esquerda (`margin-left`) e margem à direita
-     (`margin-right`) como 10% da largura total
+     (`margin-right`) como 15% da largura total
 1. Crie uma regra para estilizar os títulos de primeiro e de segundo nível
    - Definir a família da fonte e a cor (conforme especificado no pdf)
 1. Crie uma regra para estilizar os parágrafos
