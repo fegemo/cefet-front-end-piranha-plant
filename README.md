@@ -22,7 +22,7 @@ em um arquivo `.zip` e então enviá-lo ao professor.
 ### Pré-atividade
 
 1. Baixe o
-   [arquivo compactado](https://github.com/fegemo/cefet-front-end-piranha-plant/archive/master.zip)
+   [arquivo compactado](https://github.com/fegemo/cefet-front-end-piranha-plant/archive/main.zip)
    que contém os documentos do tio Epaminondas e algumas imagens.
 2. Descompacte em algum lugar (_e.g._, na área de trabalho).
 
@@ -132,3 +132,5 @@ Ao final deste exercício, a página deve ser parecer com esta imagem:
   - Depende do caso. A imagem deve estar dentro do parágrafo se ela
     é uma imagem "em linha", tipo um _emoji_. Se ela for uma imagem maior,
     provavelmente deve estar fora do parágrafo.
+
+[estrutura]: https://fegemo.github.io/cefet-front-end/classes/html1/#estrutura-basica-html
